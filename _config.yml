@@ -32,11 +32,12 @@ github_username:  M4TT0CK
 header_pages:
   - index.md
   - about.md
+  - projects.md
   - contact.md
 
 style: dark
 
-footer: '<a href="https://twitter.com/M4TT0CK">Twitter</a> | <a href="https://github.com/M4TT0CK">GitHub</a>'
+footer: '<a href="https://twitter.com/M4TT0CK">Twitter</a> | <a href="https://github.com/M4TT0CK">GitHub</a> | <a href="https://www.linkedin.com/in/james-thomas-4b5311a8/">LinkedIn</a>'
 
 # Build settings
 theme: jekyll-theme-console

@@ -11,22 +11,15 @@ permalink: /about/
 ![Me](/assets/images/asciified_400x320.jpg)
 {: refdef}
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Intro
 
+My name is James N. Thomas. This is my personal website and blog. I'm currently a computer science master's student, and I work in the research and development arm of a privately owned software development company. I plan on this blog being a mostly informal catch-all for anything I find interesting in computer science, mathematics, or whatever else. Feel free to take a look at my projects in the tab up top and don't hesitate to drop me a few lines through the contact page.
 
-You can find the source code for Minima at GitHub:
+# Education
 
-[jekyll][jekyll-organization] /
+* LSU Shreveport - BS in Computer Science - May, 2019
+* LSU Shreveport - MS in Computer Systems Technology - Ongoing
 
-[minima](https://github.com/jekyll/minima)
+# Scholarships
 
-
-You can find the source code for Jekyll at GitHub:
-
-[jekyll][jekyll-organization] /
-
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-
-[jekyll-organization]: https://github.com/jekyll
+* Micael V. Doran Memorial Scholarship
