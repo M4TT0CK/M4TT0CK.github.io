@@ -1,6 +1,6 @@
 ---
 
-title: /
+title: ~/
 
 layout: home
 
