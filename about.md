@@ -22,4 +22,4 @@ My name is James N. Thomas. This is my personal website and blog. I'm currently 
 
 # Scholarships
 
-* Micael V. Doran Memorial Scholarship
+* Michael V. Doran Memorial Scholarship
