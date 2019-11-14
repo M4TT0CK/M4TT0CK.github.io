@@ -7,8 +7,10 @@ title: ~/about
 permalink: /about/
 
 ---
+{:refdef: style="text-align: center;"}
+![Me](/assets/images/asciified_400x320.jpg)
+{: refdef}
 
-![image](/assets/images/asciified.png =200x)
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 
