@@ -3,6 +3,7 @@ layout: post
 title:  "Here we go"
 categories: Project Euler
 ---
+# Here we go
 This is really simply an inaugural post to test out the static rendering of blog posts, but I'll try to still make it interesting and worth reading by going over an easy [Project Euler](https://projecteuler.net) problem. Specifically the first problem which is relatively simple. If you're not familiar with Project Euler, the link above will give you a pretty good overview, but in short it's a series of challenging mathematical problemsthat you are encouraged to solve through the use of programming and computer science techniques. I love both mathematics and computer science almost equally (I studied pure/theoretical math before switching to computer science), so I have a lot of fun solving these. I'll probably end up posting more solutions and explanations in the future, as I've solved quite a few of these. The first few problems aren't particularly hard, but they make for a decent first foot forward with a new blog, perhaps. Spoilers ahead, obviously, if you want to solve these on your own without seeing a potential solution. I've chosen (thus far) to use Python 3 solve these problems--it's not a fast language, of course, but it has nice, headache free support of very large numbers (useful in solving some of these problems) baked into it, and the fast and loose scripting style is good for one off problems like this.
 
 # Problem 1: Find the sum of all the multiples of 3 or 5 below 1000
@@ -19,7 +20,7 @@ print(sum) # Answer: 233168
 {% endhighlight %}
 
 # Explanation:
-The code here is probably self-evident to anyone who read this far. A sum variable is created to capture the rolling sum of all applicable numbers. Next, a for loop is used to iterate 0\<x\<1000, and if x mod 3 or x mod 5 (inclusively) equal 0 (a remainder of 0), then x is added to the rolling sum. At the end of these iterations and conditional additions, the sum is printed, which in this case happens to be 233168
+The code here is probably self-evident to anyone who has read this far. A sum variable is created to capture the rolling sum of all applicable numbers. Next, a for loop is used to iterate 0\<x\<1000, and if x mod 3 or x mod 5 (inclusively) equal 0 (a remainder of 0), then x is added to the rolling sum. At the end of these iterations and conditional additions, the sum is printed, which in this case happens to be 233168
 
 
 Click [here](https://github.com/M4TT0CK/Project-Euler) to check out all of my solutions so far to the Project Euler problems.
