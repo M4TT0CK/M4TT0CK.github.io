@@ -18,8 +18,9 @@ My name is James N. Thomas. This is my personal website and blog. I'm currently 
 # Education
 
 * LSU Shreveport - BS in Computer Science - May, 2019
-* LSU Shreveport - MS in Computer Systems Technology - Ongoing
+* LSU Shreveport - MS in Computer Science - May, 2021
 
 # Scholarships
 
 * Michael V. Doran Memorial Scholarship
+* AEP SWEPCO Foundation Computer Science Scholarship for Graduate Students
