@@ -8,7 +8,7 @@ permalink: /projects/
 
 ---
 
-# Software Projcets
+# Software Projects
 
 * [Project Euler Solutions (Python)](https://github.com/M4TT0CK/Project-Euler)
 * [Conway's Game of Life (Java)](https://github.com/M4TT0CK/Game-Of-Life)
